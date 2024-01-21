@@ -1,0 +1,93 @@
+nav{
+    justify-content: space-between;
+    display: flex;
+    color: white;
+}
+.btn{
+    background-color: rgba(238, 6, 6, 0.625);
+    border: 1px solid red;
+    border-radius: 0.3em;
+    height: 6vh;
+    width: 12vh;
+    margin-top: 4vh;
+    cursor: pointer;
+    margin-right: 5vh;
+}
+.btn:hover{
+    background-color: red;
+}
+.input{
+    background-color: rgb(100, 97, 97);
+    border: 1px solid white;
+    border-radius: 0.2em;
+    height: 5vh;
+    width: 45vh;
+    color: white;
+}
+.input:hover{
+    background-color: rgb(67, 64, 64);
+}
+.divhd{
+    background-image: url(./netflx.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+.container{
+   justify-content: space-around;
+   display: flex;
+   color: white;
+}
+.btn1{
+    background-color: rgba(232, 5, 5, 0.606);
+    border: 1px solid red;
+    border-radius: 0.3em;
+    height: 5vh;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: rgba(255, 0, 0, 0.961);
+}
+.section{
+    background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+}
+div{
+    align-items: center;
+}
+.section1{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+   margin-top: 3px;
+}
+.section2{
+    background-color: black;
+    color: white;
+    margin-top: 3px;
+    height: 45vh;
+    padding-top: 13vh;
+    padding-left: 8vh;
+}
+.section3{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3px;
+}
+
+.div4{
+    height: 7vh;
+
+    background-color: rgb(125, 117, 117);
+    border-radius: 0.2em;
+    width: 100vh;
+}
+.div4:hover{
+    background-color: rgb(109, 109, 109);
+}
+

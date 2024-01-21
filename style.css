@@ -1,0 +1,84 @@
+body{
+    background-color: gray;
+}
+
+.nav{
+    justify-content: space-between;
+    display: flex;  
+    background-image: url(./netflx.png);
+    height: 50vh;
+}
+.container{
+    justify-content: space-around;
+    display: flex;
+    background-image: url(./netflx.png);
+    color: white;
+    height: 50vh;
+}
+.div5{
+    justify-content: space-around;
+}
+.btn{
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 0.3em;
+    height:8vh ;
+    width:13vh;
+    margin-top: 12px;
+    margin-right: 13px;
+}
+.div1{
+}
+.input{
+    background-color: rgb(60, 54, 54);
+    border: 0.5px solid white;
+    border-radius: 0.2em;
+    justify-items: center;
+    height: 5vh;
+    width: 40vh;
+}
+.btn1{
+    background-color: red;
+    border: 5px solid red;
+    border-radius: 0.3em;
+    height: 5vh;
+}
+.section{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    color: white;
+    border-radius: 1em solid black;
+}
+.section1{
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    display: flex;
+    margin: 3px;
+
+}
+.div2{
+    align-items: center;
+}
+    .div3{
+        align-items: center;
+
+}
+.section2{
+    background-color: black;
+    color: white;
+    margin: 3px;
+    height: 50vh;
+}
+.div5{
+    align-items: center;   
+}
+.section3{
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    display: flex;
+    margin: 3px;
+}
